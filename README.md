@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wrightrocket
-- 👀 I’m interested in Linux, Programming, and Gadgets
-- 🌱 I’m currently learning Raspberry Pi Pico C and Python
-- 💞️ I’m looking to collaborate on embedded development
+- 👀 I’m interested in Security, Computers, Operating Systems, Programming, and Embedded Systems
+- 🌱 I’m currently learning skills on TryHackMe.com
 - 📫 How to reach me: wright.keith@gmail.com
 
 <!---
