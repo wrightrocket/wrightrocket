@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WrightRocket AKA Keith Wright! 
-  * I know a lot about CyberSecurity, Computers, IoT devices, Apps, Mobile Devices, Operating Systems, and Programming
+  * I'm focused at work on CyberSecurity, Computers, IoT devices, Apps, Mobile Devices, Operating Systems, and Programming
   * I enjoy being creative, understanding how things work, and trying to do what I do better
  
 🌱 I am currently teaching A+, CySA+ and Security+ at a non-profit helping disadvantaged people get better jobs
